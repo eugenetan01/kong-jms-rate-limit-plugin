@@ -10,9 +10,9 @@
 
 **2. setup a service on Kong Manager**
 
-- host: 1.55.137.70
+- host: <mq-broker-host>
 - protocol: tcp
-- port: 7222
+- port: <mq-port>
 
 **3. setup a route**
 
